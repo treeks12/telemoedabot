@@ -10,9 +10,9 @@ import asyncio
 
 from telebot.async_telebot import AsyncTeleBot
 
-#7422863303:AAHFKxFO6QCJGzcrPuHZoF21rGs_nAYu2P0 token_telegram
 
-bot_token = "7422863303:AAHFKxFO6QCJGzcrPuHZoF21rGs_nAYu2P0"
+
+bot_token = ""
 
 bot = AsyncTeleBot(bot_token)
 
